@@ -1,0 +1,8 @@
+Tento jednoduchý kód nastaví desku, umístí figurky na jejich počáteční pozice a zobrazí je. Zde je základní logika, ale pro plnohodnotnou hru by bylo potřeba přidat:
+
+Pravidla pohybu: Implementace pravidel pro pohyb figurek.
+Pravidla pro zajímání: Logiku pro zajímání figurek.
+Vítězství a prohra: Určení, kdy jedna ze stran vyhraje nebo prohraje.
+Interakce: Přidání interakce uživatele, aby mohl figurkami pohybovat.
+Uživatelské rozhraní: Přidání tlačítek pro restart hry nebo změnu nastavení.
+Tohle je jen základ. Jakmile to bude fungovat, můžeme pokračovat v přidávání složitějších funkcí.
